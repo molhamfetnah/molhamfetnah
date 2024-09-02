@@ -1,14 +1,18 @@
-- 👋 Hi, I’m @molhamfetnah
-- 👀 I’m interested in learning every thing
-- 🌱 I’m currently learning python + c# + asp.net core
-- 💞️ I’m looking to collaborate on programming, hacking, roboting
-- 📫 How to reach me 
-my telegram channel
-https://t.me/+9-GeDj6CkzswMjE0
-my telegram link
-@Molham_Fetna
+# 💫 About Me:
+🚀 **Innovative STEM Educator and Mechatronics Expert | Empowering the Next Generation** 🚀<br><br>Are you searching for a dedicated STEM educator who can revolutionize the learning experience? With technical expertise, creativity, and a proven track record, I am uniquely positioned to elevate your educational programs and inspire your students.<br><br>### What I Offer:<br><br>- **Technical Excellence:** 🎓 Top student in my mechatronics engineering class, bringing in-depth knowledge in electronics, robotics, and programming.<br><br>- **Engaging Teaching Methods:** 📚 I simplify complex concepts into engaging lessons, ensuring all students achieve success and develop a passion for STEM.<br><br>- **Tailored Learning Experiences:** 🎯 I design personalized learning plans that address individual student needs, fostering confidence and academic growth.<br><br>- **Leadership and Mentorship:** 🏆 Extensive experience mentoring peers and younger students, encouraging collaboration, critical thinking, and problem-solving.<br><br>- **Proven Track Record:** 📈 High academic performance and hands-on teaching experience lead to improved student outcomes and increased engagement.<br><br>- **Resourceful Problem-Solving:** 🛠️ Utilizing various educational resources and technological tools, I address academic challenges efficiently.<br><br>### Why Choose Me?<br><br>- **Student-Centric Approach:** 🎯 Your students' success is my top priority. I ensure they understand complex concepts and gain practical skills.<br><br>- **Innovative Curriculum Design:** 🧩 I develop captivating curriculum content that drives students' passion for STEM, making lessons interactive and hands-on.<br><br>- **Demonstrable Results:** 🏆 My methods consistently lead to better academic performance and greater student engagement.<br><br>- **Global Perspective:** 🌍 Growing up in challenging environments has given me a unique perspective and resilience, allowing me to inspire a diverse student population.<br><br>### Connect with Me:<br><br>- **Learn more about my work and projects.**<br><br>- **Discuss innovative educational approaches and resources.**<br><br>- **Collaborate on creating a brighter future for STEM education.**<br><br>Invest in a brighter future with an educator passionate about making a difference. Let’s connect and explore how my skills and commitment to excellence can benefit your organization and empower your students. 🚀
 
-<!---
-molhamfetnah/molhamfetnah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/molhamfetnah) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/molhamfetnah) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/molham-fetnah) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@molhamfetnah) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Mulham-Fetna) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/16902494) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/molham_fetnah) 
+
+# 💻 Tech Stack:
+![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=molhamfetnah&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=molhamfetnah&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=molhamfetnah&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=molhamfetnah&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
